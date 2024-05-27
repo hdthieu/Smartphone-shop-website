@@ -1,0 +1,78 @@
+[
+    {
+        "image": "https://cdn.chiaki.vn/unsafe/0x960/left/top/smart/filters:quality(90)/https://chiaki.vn/upload/product/2022/02/tai-nghe-xiaomi-in-ear-headphones-basic-620df585195a5-17022022141309.png",
+        "title": "Tai nghe Xiaomi Mi Basic Chính hãng",
+        "cpu": "Xiaomi",
+        "price": "1.000.000đ",
+        "discount": "2.000.000đ",
+         "type":"Xiaomi", "color":"Đen"
+    },
+    {
+        "image": "https://vinalnk.com/uploads/2022/05/airpods-3-hop-sac-khong-day-thumb-large.jpeg",
+        "title": "Tai nghe Bluetooth AirPods 3 Apple MME73",
+        "cpu": "Air Pods",
+        "price": "4.490.000đ",
+        "discount": "5.490.000đ",
+         "type":"ip", "color":"Trắng"
+    },
+    {
+        "image": "https://product.hstatic.net/200000547251/product/tai-nghe-xiaomi35_89af5207b71b4ce6b8d51a68911a104f_1024x1024.jpg",
+        "title": "Tai Nghe Xiaomi Mi In Ear Headphones Basic",
+        "cpu": "Xiaomi",
+        "price": "169.000đ",
+        "discount": "250.000đ",
+         "type":"Xiaomi", "color":"Đen"
+    },
+    {
+        "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/g/r/group_169_2.png",
+        "title": "Tai nghe Bluetooth Apple AirPods 2 VN",
+        "cpu": "Air Pods",
+        "price": "2.750.000đ",
+        "discount": "3.990.000đ",
+        "type":"ip", "color":"Trắng"
+    },
+    {
+        "image": "https://vinalnk.com/uploads/2022/05/tai-nghe-earpods-apple-md827fea-thumb-large.jpg",
+        "title": "Tai nghe nhét tai Earpods Jack Tròn 3.5mm Apple MNHF2",
+        "cpu": "Air Pods",
+        "price": "449.000",
+        "discount": "699.000",
+        "type":"ip", "color":"Trắng"
+    }, {
+        "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/g/r/group_182_1.png",
+        "title": "Tai nghe không dây Samsung Galaxy Buds Pro",
+        "cpu": "SamSung",
+        "price": "1.990.000",
+        "discount": "4.990.000",
+         "type":"SamSung",  "color":"Đen"
+    }, {
+        "image": "https://cdn.chiaki.vn/unsafe/0x960/left/top/smart/filters:quality(90)/https://chiaki.vn/upload/product/2022/02/tai-nghe-bluetooth-xiaomi-haylou-gt3-true-wireless-620cbba1d35aa-16022022155353.jpg",
+        "title": "Tai nghe Bluetooth True Wireless Haylou GT3",
+        "cpu": "Xiaomi",
+        "price": " 490.000",
+        "discount": "600.000",
+         "type":"Xiaomi",  "color":"Đen"
+    }, {
+        "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/g/r/group_182_2_1.png",
+        "title": "Tai nghe không dây Samsung Galaxy Buds2 Pro",
+        "cpu": "SamSung",
+        "price": "3.290.000",
+        "discount": "4.500.000",
+        "type":"SamSung",  "color":"Tím"
+    }, {
+        "image": "https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/f/r/frame_1_3_9.png",
+        "title": "Tai nghe không dây Samsung Galaxy Buds2",
+        "cpu": "SamSung",
+        "price": "1.390.000",
+        "discount": "2.990.000",
+        "type":"SamSung",  "color":"Nâu"
+
+    }, {
+        "image": "https://vinalnk.com/uploads/2022/05/cap-type-c-lightning-1m-apple-mm0a3-trang-large.jpeg",
+        "title": "Cáp Type C - Lightning 1m Apple MM0A3 Trắng",
+        "cpu": "Air Pods",
+        "price": "349.000",
+        "discount": "549.000",
+        "type":"ip",  "color":"Trắng"
+    }
+]
